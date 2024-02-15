@@ -1,1 +1,1 @@
-# sonarqube-app
+# sonarqube-scanbot
